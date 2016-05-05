@@ -1,0 +1,7 @@
+--- 
+description: "Returns NASC Stock information for a given nascode"
+main_module: main.py
+name: stock_info_by_nascode
+type: query
+url: "http://arabidopsis.info/"
+version: 0.1
